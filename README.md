@@ -1,2 +1,2 @@
 # CRUD-USING-PHP-MVC
-* Learn How To Use MVC With PHP
+* This Project is a Native php MVC Framework Using only php , html ,css and javaScript 
